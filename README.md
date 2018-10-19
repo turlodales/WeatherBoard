@@ -37,9 +37,8 @@ for one resaon only extra backup i have the project on my mac mini, may Mac Book
 | iPad 2 | Untested/Unknown |
 | iPad 3 | Untested/Unknown |
 | iPad 4 | Untested/Unknown |
-| iPad Air | Untested/Unknown |
 | iPad Mini 1 | Untested/Unknown |
-| iPad Mini 2 | Untested/Unknown |
+
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
 | iOS |4| 4S|5|5C|iPod Touch 5 |
@@ -56,18 +55,18 @@ for one resaon only extra backup i have the project on my mac mini, may Mac Book
 | iOS 7.1.2 | Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS |4|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|iPad Mini 2|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS |4|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|
+|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
@@ -110,32 +109,32 @@ for one resaon only extra backup i have the project on my mac mini, may Mac Book
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
-|iOS |4S|5|5C|5S|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|iPad Mini 2|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|No JB|No JB|
-|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
-|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS |5|5C|5S|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 2|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 7.0|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.1|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|
+|iOS 7.0.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.3|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.4|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.0.5|No JB|No JB|No JB|Untested/Unknown |Untested/Unknown |No JB|No JB|No JB|No JB|
+|iOS 7.0.6|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.1|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
+|iOS 7.1.2|Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |Untested/Unknown |
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-|iOS|5S|6|6+|iPod Touch 5|iPod Touch 6|iPad 2|iPad 3|iPad 4|iPad Air|iPad Air 2|iPad Mini 1|iPad Mini 2|iPad Mini 3|
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.2|working/Tested|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS|5S|6|6+|iPod Touch 5|iPod Touch 6|iPad 2|iPad 3|iPad 4|iPad Air|iPad Air 2|iPad Mini 2|iPad Mini 3|
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|iOS 8.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.1.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.2|working/Tested|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
