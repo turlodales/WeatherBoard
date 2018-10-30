@@ -1,4 +1,4 @@
-# WeatherBoard
+# WeatherBoard (32bit)
 
 a working verson of weatherboard for but iOS 7 to iOS 8.3 
 
