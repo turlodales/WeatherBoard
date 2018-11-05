@@ -1,4 +1,4 @@
-# WeatherBoard (32bit)
+# WeatherBoard (32bit/64bit)
 
 a working verson of weatherboard for but iOS 7 to iOS 8.3 
 
@@ -32,7 +32,7 @@ for one resaon only extra backup i have the project on my mac mini, may Mac Book
 | Device | Supports |
 |---------|----------|
 | iPhone 4 | Untested/Unknown |
-|iPhone 5 | Untested/Unknown |
+| iPhone 5 | Untested/Unknown |
 | iPod Touch 5 | Untested/Unknown |
 | iPad 2 | Untested/Unknown |
 | iPad 3 | Untested/Unknown |
@@ -100,12 +100,11 @@ for one resaon only extra backup i have the project on my mac mini, may Mac Book
 | iPhone 6+ | planned |
 | iPad Mini 2 | planned |
 | iPad Mini 3 | planned |
-| iPad Mini 4 | planned |
 | iPad 3 | planned |
 | iPad 4 | planned |
 | iPad Air | planned |
+| iPod Touch 5 | planned |
 | iPod Touch 6 | planned |
-| iPod Touch 6|planned|
 
 
 # Supported Devices iOS 7.0 to iOS 7.1.2 
