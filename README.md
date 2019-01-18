@@ -1,12 +1,47 @@
-# WeatherBoard (32bit/64bit)
+# WeatherBoard (32bit/64bit) (Paid Tweak)
 
-a working verson of weatherboard for but iOS 7 to iOS 8.3 
+a working verson of weatherboard for but iOS 7.0 to iOS 8.3 
+
+Description
+
+Compatible with iOS 7
+For iOS 8/9, try WeatherBoard 2 (iOS 9 & 8)
+
+WeatherBoard allows animated weather wallpapers. This includes over 80 different animated wallpapers, overlaying your favourite wallpapers with weather conditions, and animated wallpapers that update as the weather changes outside.
+
+Some of the conditions include:
+Severe Thunderstorm
+Lightning
+Hurricane
+Tropical Storm
+Snow Showers
+Flurries
+Mixed Rainfall
+And many more!
+
+WeatherBoard Features:
+- Overlaying weather conditions overtop of normal wallpapers
+- Weather wallpapers that update based upon the weather outside
+- Over 80 animated weather wallpapers
+- High quality, realistic, animated wallpapers
+- Seamless switching between standard and animated wallpapers
+
+Configure options from Settings.
 
 Ver:1.1.1-19
 
+Change Log
+
+- [x] Bug Fixes/8.3 Support
+- [x] added 8.3 support
+- [x] resolved crashing experienced by select iOS 7 users
+- [x] reduced memory usage
+
+Last Updated 	November 6, 2015
+
 -----------------------------------------------------------------------------------------------------------------------------
 
-Hello and Welcome this verson is fully wortking version for ios 7 to 8.3 what will not be updated as the orginal devloper made WeatherBoard 2 for iOS 8.3 and above.
+Hello and Welcome this verson is fully wortking version for ios 7.0 to 8.3 this will not be updated as the orginal devloper made WeatherBoard 2 for iOS 8.3 and above.
 
 the orignal version is also avalable on thebigboss repo and on my own repo 
 
@@ -56,10 +91,10 @@ This is my own attempted to get reworking my layout is taken form another tweak 
 |iOS       |4    |4S   |5    |5C  |iPod Touch 5     |iPad 2|iPad 3|iPad 4|iPad Air|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |iOS 7.0   | No  | No  |No   |No  |No               |No    |No    |No    |No      |No         |
-|iOS 7.0.1 |No JB|No JB|No JB|No  |No               |No JB |No JB |No JB |No JB   |No JB      | No JB|
+|iOS 7.0.1 |No JB|No JB|No JB|No  |No               |No JB |No JB |No JB |No JB   |No JB      |
 |iOS 7.0.2 |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |
 |iOS 7.0.3 |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |
-|iOS 7.0.4 |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |No    |
+|iOS 7.0.4 |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |
 |iOS 7.0.5 |No JB|No JB|No JB|No  |No JB            |No JB |No JB |No JB |No JB   |No JB      |
 |iOS 7.0.6 |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |
 |iOS 7.1   |No   |No   |No   |No  |No               |No    |No    |No    |No      |No         |
@@ -68,22 +103,22 @@ This is my own attempted to get reworking my layout is taken form another tweak 
 
 
 # Supported Devices iOS 8.0 to iOS 8.3
-|iOS|4S|5|5C|iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Air 2|iPad Mini 1|
+|iOS       |4S  |5    |5C   |iPod Touch 5|iPad 2|iPad 3|iPad 4|iPad Air|iPad Air 2|iPad Mini 1|
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-|iOS 8.0|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.0.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.1|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.2|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.1.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.2|working/Tested |Untested/Unknown|working/Tested |Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
-|iOS 8.3|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|Untested/Unknown|
+|iOS 8.0   |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.0.1 |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.0.2 |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.1   |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.1.1 |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.1.2 |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.1.3 |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.2   |Yes |No   |yes  |No          |No    |No    |No    |No      |No        |No         |
+|iOS 8.3   |No  |No   |No   |No          |No    |No    |No    |No      |No        |No         |
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+new fetures: no new fetures as of this point not so say it will never happen just not yet just getting it up and running first is the main thing
 
-
-
-
+I will be making this a paid tweak $3.49 the original tweak is $2.49 that will be keeped aside in case the original owner comes back in I'm not here to rip people off from the date I receive the first payment i will be keeping the $2.49 from every purchase for the original owner for 1 year if he does not get in contact after one year from the date then I will be keeping the funds and dropping the price back down to the $2.49 as I not here to get rich of someone else's work but just to cover the cost of my time to keep this grate tweak alive.
 
 
 I would like to say a big thank you to the people that have helped me make this happen:
