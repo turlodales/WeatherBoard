@@ -1,11 +1,16 @@
 # WeatherBoard (32bit/64bit) (Paid Tweak)
 
-a working verson of weatherboard for but iOS 7.0 to iOS 8.3 
+Fully Working verson of WeatherBoard for but iOS 7.0 to iOS 8.3 (Untoched)
 
 Description
 
-Compatible with iOS 7
-For iOS 8/9, try WeatherBoard 2 (iOS 9 & 8)
+Compatible with iOS 7 to 8.3
+
+| 32Bit / 64Bit | iOS Versions | Decsription | Web |
+|---------|----------|----------|----------|
+| Both  | 8.3 to 9.3.5      | WeatherBoard 2 | https://github.com/turlodales/weatherboard-2 |
+| 64Bit | 10.0 to 12.1.3 b4 | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
+
 
 WeatherBoard allows animated weather wallpapers. This includes over 80 different animated wallpapers, overlaying your favourite wallpapers with weather conditions, and animated wallpapers that update as the weather changes outside.
 
@@ -44,12 +49,6 @@ Last Updated 	November 6, 2015
 Hello and Welcome this verson is fully wortking version for ios 7.0 to 8.3 this will not be updated as the orginal devloper made WeatherBoard 2 for iOS 8.3 and above.
 
 the orignal version is also avalable on thebigboss repo and on my own repo 
-
-| 32Bit / 64Bit | iOS Versions | Decsription | Web |
-|---------|----------|----------|----------|
-| Both  | 8.3 to 9.3.5      | WeatherBoard 2 | https://github.com/turlodales/weatherboard-2 |
-| 64Bit | 10.0 to 12.1.3 b4 | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
-
 
 This is my own attempted to get reworking my layout is taken form another tweak i have been working so i will be neating this up later just trying to make it looking better for my own mind
 
