@@ -8,9 +8,10 @@ Compatible with iOS 7 to 8.3
 
 | 32Bit / 64Bit | iOS Versions | Decsription | Web |
 |---------|----------|----------|----------|
-| Both  | 8.3 to 9.3.5      | WeatherBoard 2 | https://github.com/turlodales/weatherboard-2 |
-| 64Bit | 10.0 to 12.1.3 b4 | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
-
+| Both   | 8.3 to 9.3.5      | WeatherBoard 2 | https://github.com/turlodales/weatherboard-2 |
+| 64Bit  | 10.0 to 12.4.1    | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
+| iPadOS | 13.0 to 13.1      | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
+| TVOS   | 10.0 to 12.4.1    | WeatherBoard 3 | https://github.com/turlodales/weatherboard-3 |
 
 WeatherBoard allows animated weather wallpapers. This includes over 80 different animated wallpapers, overlaying your favourite wallpapers with weather conditions, and animated wallpapers that update as the weather changes outside.
 
